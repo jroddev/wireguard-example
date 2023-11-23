@@ -1,4 +1,6 @@
 # WireGuard Example
+<b>WARNING</b>: This projects key pairs are <b>obviously</b> leaked via this public repo.
+They're fine for a quick test, but do not use them in anything that matters.
 
 ## Running Wireguard
 For the client use `./client/wg0.conf`
